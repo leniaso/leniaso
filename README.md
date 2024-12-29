@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**leniaso/leniaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:situación laboral: estudiante de ingenieria de sistemas
 
-Here are some ideas to get you started:
+Por el momento me encuentro aprovechando los cursos de platzi, para aprender las bases del uso de github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## conocimientos hasta el momento
+
+conosco las bases de programación en java y en python, junto con el uso base de git y github.
+
+
+## actividad 
+
+proyecto de practica de platzi para el manejo de git-hub
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/leniaso/de-platzi-1)
+
+## nota
+
+no prestar tanta atención a este readme, solo estoy practicando su uso para futuros proyectos
