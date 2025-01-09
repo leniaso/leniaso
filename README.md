@@ -18,3 +18,5 @@ proyecto de practica de platzi para el manejo de git-hub
 ## nota
 
 no prestar tanta atención a este readme, solo estoy practicando su uso para futuros proyectos
+
+![Markdown page](/images/markdown-image.png)
