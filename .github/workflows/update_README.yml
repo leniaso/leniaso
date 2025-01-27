@@ -1,0 +1,20 @@
+name: update README
+
+
+on:
+  schedule:
+   - cron: "* */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update profile README
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Readme-Workflows/recent-activity@main
+
+        env:
+         GITHUB_TOKENS: ${{ secrets.GITHUB_TOKEN }}
