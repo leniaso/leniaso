@@ -17,4 +17,4 @@ jobs:
       - uses: Readme-Workflows/recent-activity@main
 
         env:
-         GITHUB_TOKENS: ${{ secrets.GITHUB_TOKEN }}
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
