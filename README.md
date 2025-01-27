@@ -18,8 +18,8 @@ proyecto de practica de platzi para el manejo de git-hub
 
 
 ## :zap: Actividad reciente
-
-
+<!--RECENT_ACTIVITY: start-->
+<!--RECENT_ACTIVITY: last_update-->
 
 ## nota
 
