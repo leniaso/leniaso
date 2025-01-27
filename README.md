@@ -15,6 +15,12 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/leniaso/de-platzi-1)
 
+
+
+## :zap: Actividad reciente
+
+
+
 ## nota
 
 no prestar tanta atención a este readme, solo estoy practicando su uso para futuros proyectos
