@@ -19,14 +19,14 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/leniaso/REPO-de-GLI/issues/1) in [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
-2. ❗️ Opened issue [#1](https://github.com/leniaso/REPO-de-GLI/issues/1) in [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
-3. 📔 Created new repository [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
-4. ⬆️ Pushed 1 commit(s) to [leniaso/leniaso](https://github.com/leniaso/leniaso)<br>
-5. ⬆️ Pushed 1 commit(s) to [leniaso/leniaso](https://github.com/leniaso/leniaso)<br>
+1. ⬆️ Pushed 1 commit(s) to [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
+2. 📔 Created new repository [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
+3. ✔️ Closed issue [#1](https://github.com/leniaso/REPO-de-GLI/issues/1) in [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
+4. ❗️ Opened issue [#1](https://github.com/leniaso/REPO-de-GLI/issues/1) in [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
+5. 📔 Created new repository [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 4th, 2025, 7:00:24 AM
+Last Updated: Tuesday, February 4th, 2025, 12:29:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
