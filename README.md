@@ -19,14 +19,14 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
-2. 📔 Created new repository [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
-3. ✔️ Closed issue [#1](https://github.com/leniaso/REPO-de-GLI/issues/1) in [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
-4. ❗️ Opened issue [#1](https://github.com/leniaso/REPO-de-GLI/issues/1) in [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
-5. 📔 Created new repository [leniaso/REPO-de-GLI](https://github.com/leniaso/REPO-de-GLI)<br>
+1. ⬆️ Pushed 3 commit(s) to [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
+2. 🎉 Merged PR [#1](https://github.com/leniaso/prueba-4/pull/1) in [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
+3. 💪 Opened PR [#1](https://github.com/leniaso/prueba-4/pull/1) in [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
+4. ⬆️ Pushed 1 commit(s) to [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
+5. 📔 Created new repository [leniaso/prueba-4](https://github.com/leniaso/prueba-4)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 5th, 2025, 12:59:48 PM
+Last Updated: Wednesday, February 5th, 2025, 6:20:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
