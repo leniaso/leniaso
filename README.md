@@ -19,14 +19,9 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/leniaso/de-platzi-1/issues/1) in [leniaso/de-platzi-1](https://github.com/leniaso/de-platzi-1)<br>
-2. ✔️ Closed issue [#5](https://github.com/leniaso/de-platzi-1/issues/5) in [leniaso/de-platzi-1](https://github.com/leniaso/de-platzi-1)<br>
-3. ⬆️ Pushed 1 commit(s) to [leniaso/probando_releases](https://github.com/leniaso/probando_releases)<br>
-4. ⬆️ Pushed 1 commit(s) to [leniaso/de-platzi-1](https://github.com/leniaso/de-platzi-1)<br>
-5. ✌️ Released [v0.1.0](https://github.com/leniaso/probando_releases/releases/tag/v0.1.0) in [leniaso/probando_releases](https://github.com/leniaso/probando_releases)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 10th, 2025, 7:00:50 PM
+Last Updated: Tuesday, March 11th, 2025, 1:13:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
