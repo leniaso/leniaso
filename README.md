@@ -21,7 +21,7 @@ proyecto de practica de platzi para el manejo de git-hub
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 26th, 2025, 6:43:59 AM
+Last Updated: Wednesday, March 26th, 2025, 6:54:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
