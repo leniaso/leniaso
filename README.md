@@ -19,14 +19,14 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
-2. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
-3. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
-4. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
-5. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
+1. ⬆️ Pushed 1 commit(s) to [leniaso/Competencia_Kaggle](https://github.com/leniaso/Competencia_Kaggle)<br>
+2. ⬆️ Pushed 1 commit(s) to [leniaso/Competencia_Kaggle](https://github.com/leniaso/Competencia_Kaggle)<br>
+3. ⬆️ Pushed 1 commit(s) to [leniaso/Competencia_Kaggle](https://github.com/leniaso/Competencia_Kaggle)<br>
+4. ⬆️ Pushed 1 commit(s) to [leniaso/Competencia_Kaggle](https://github.com/leniaso/Competencia_Kaggle)<br>
+5. ⬆️ Pushed 1 commit(s) to [leniaso/Competencia_Kaggle](https://github.com/leniaso/Competencia_Kaggle)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 24th, 2025, 6:52:46 PM
+Last Updated: Wednesday, September 24th, 2025, 7:08:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
