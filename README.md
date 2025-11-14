@@ -6,7 +6,7 @@ Por el momento me encuentro aprovechando los cursos de platzi, para aprender las
 
 ## conocimientos hasta el momento
 
-conosco las bases de programación en java y en python, junto con el uso base de git y github.
+conosco las bases de programación en java y en python, junto con el uso base de git y github, Ademas de poseer un buen conocimiento en el desarrollo de bases relacionales en motores como mysql o postgreSQL
 
 
 ## actividad 
