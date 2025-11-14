@@ -19,11 +19,12 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
+1. ⬆️ Pushed undefined commit(s) to [leniaso/leniaso](https://github.com/leniaso/leniaso)<br>
 2. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
+3. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 14th, 2025, 1:20:42 AM
+Last Updated: Friday, November 14th, 2025, 6:27:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
