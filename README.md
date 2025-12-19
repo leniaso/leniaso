@@ -26,7 +26,7 @@ proyecto de practica de platzi para el manejo de git-hub
 5. ⬆️ Pushed undefined commit(s) to [leniaso/Competencia-Kaggle-2025-2](https://github.com/leniaso/Competencia-Kaggle-2025-2)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 19th, 2025, 6:54:19 AM
+Last Updated: Friday, December 19th, 2025, 7:18:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
