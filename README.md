@@ -19,12 +19,13 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
-2. 💪 Opened PR [#1](undefined) in [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
-3. 🔱 Forked [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica) from [Miguel-Gallego-2/GestionFinancieraFabrica](https://github.com/Miguel-Gallego-2/GestionFinancieraFabrica)<br>
+1. 🔱 Forked [leniaso/databricks-mlops-talk](https://github.com/leniaso/databricks-mlops-talk) from [Ezapataq07-lovelytics/databricks-mlops-talk](https://github.com/Ezapataq07-lovelytics/databricks-mlops-talk)<br>
+2. ⬆️ Pushed undefined commit(s) to [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
+3. 💪 Opened PR [#1](undefined) in [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
+4. 🔱 Forked [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica) from [Miguel-Gallego-2/GestionFinancieraFabrica](https://github.com/Miguel-Gallego-2/GestionFinancieraFabrica)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 22nd, 2026, 1:33:41 PM
+Last Updated: Sunday, March 22nd, 2026, 6:34:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
