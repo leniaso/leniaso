@@ -20,13 +20,13 @@ proyecto de practica de platzi para el manejo de git-hub
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
-2. 🔱 Forked [leniaso/databricks-mlops-talk](https://github.com/leniaso/databricks-mlops-talk) from [Ezapataq07-lovelytics/databricks-mlops-talk](https://github.com/Ezapataq07-lovelytics/databricks-mlops-talk)<br>
-3. ⬆️ Pushed undefined commit(s) to [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
-4. 💪 Opened PR [#1](undefined) in [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
-5. 🔱 Forked [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica) from [Miguel-Gallego-2/GestionFinancieraFabrica](https://github.com/Miguel-Gallego-2/GestionFinancieraFabrica)<br>
+2. ⬆️ Pushed undefined commit(s) to [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
+3. 🔱 Forked [leniaso/databricks-mlops-talk](https://github.com/leniaso/databricks-mlops-talk) from [Ezapataq07-lovelytics/databricks-mlops-talk](https://github.com/Ezapataq07-lovelytics/databricks-mlops-talk)<br>
+4. ⬆️ Pushed undefined commit(s) to [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
+5. 💪 Opened PR [#1](undefined) in [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 25th, 2026, 7:39:49 PM
+Last Updated: Thursday, March 26th, 2026, 2:07:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
