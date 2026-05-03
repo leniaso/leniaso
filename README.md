@@ -20,13 +20,13 @@ proyecto de practica de platzi para el manejo de git-hub
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [fabrica-escala-2026-1/GestionFinancieraFabrica](https://github.com/fabrica-escala-2026-1/GestionFinancieraFabrica)<br>
-2. ⬆️ Pushed undefined commit(s) to [fabrica-escala-2026-1/GestionFinancieraFabrica](https://github.com/fabrica-escala-2026-1/GestionFinancieraFabrica)<br>
-3. ⭐ Starred [mouredev/one-day-one-language](https://github.com/mouredev/one-day-one-language)<br>
-4. ⬆️ Pushed undefined commit(s) to [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
-5. ⬆️ Pushed undefined commit(s) to [leniaso/GestionFinancieraFabrica](https://github.com/leniaso/GestionFinancieraFabrica)<br>
+2. 💪 Opened PR [#1](undefined) in [fabrica-escala-2026-1/GestionFinancieraFabrica](https://github.com/fabrica-escala-2026-1/GestionFinancieraFabrica)<br>
+3. ⬆️ Pushed undefined commit(s) to [fabrica-escala-2026-1/GestionFinancieraFabrica](https://github.com/fabrica-escala-2026-1/GestionFinancieraFabrica)<br>
+4. ⬆️ Pushed undefined commit(s) to [fabrica-escala-2026-1/GestionFinancieraFabrica](https://github.com/fabrica-escala-2026-1/GestionFinancieraFabrica)<br>
+5. ⬆️ Pushed undefined commit(s) to [fabrica-escala-2026-1/GestionFinancieraFabrica](https://github.com/fabrica-escala-2026-1/GestionFinancieraFabrica)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 3rd, 2026, 1:04:41 PM
+Last Updated: Sunday, May 3rd, 2026, 6:56:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
