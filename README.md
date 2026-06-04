@@ -23,10 +23,10 @@ proyecto de practica de platzi para el manejo de git-hub
 2. ⬆️ Pushed undefined commit(s) to [valebuelvas/Gesti-n-de-obras-da-adas-MUUA](https://github.com/valebuelvas/Gesti-n-de-obras-da-adas-MUUA)<br>
 3. ⬆️ Pushed undefined commit(s) to [valebuelvas/Gesti-n-de-obras-da-adas-MUUA](https://github.com/valebuelvas/Gesti-n-de-obras-da-adas-MUUA)<br>
 4. ⬆️ Pushed undefined commit(s) to [valebuelvas/Gesti-n-de-obras-da-adas-MUUA](https://github.com/valebuelvas/Gesti-n-de-obras-da-adas-MUUA)<br>
-5. ⬆️ Pushed undefined commit(s) to [fabrica-escala-2026-1/GestionFinancieraFabrica](https://github.com/fabrica-escala-2026-1/GestionFinancieraFabrica)<br>
+5. ⬆️ Pushed undefined commit(s) to [valebuelvas/Gesti-n-de-obras-da-adas-MUUA](https://github.com/valebuelvas/Gesti-n-de-obras-da-adas-MUUA)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 4th, 2026, 2:53:52 PM
+Last Updated: Thursday, June 4th, 2026, 8:01:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
