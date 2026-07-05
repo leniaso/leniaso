@@ -20,11 +20,9 @@ proyecto de practica de platzi para el manejo de git-hub
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [fabrica-escala-2026-1/GestionFinancieraFabrica](https://github.com/fabrica-escala-2026-1/GestionFinancieraFabrica)<br>
-2. ⬆️ Pushed undefined commit(s) to [valebuelvas/Gesti-n-de-obras-da-adas-MUUA](https://github.com/valebuelvas/Gesti-n-de-obras-da-adas-MUUA)<br>
-3. ⬆️ Pushed undefined commit(s) to [valebuelvas/Gesti-n-de-obras-da-adas-MUUA](https://github.com/valebuelvas/Gesti-n-de-obras-da-adas-MUUA)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 4th, 2026, 7:07:20 PM
+Last Updated: Sunday, July 5th, 2026, 2:50:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
