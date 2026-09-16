@@ -19,14 +19,14 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
+1. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
 2. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
-3. ⬆️ Pushed undefined commit(s) to [leniaso/conversor-monedas](https://github.com/leniaso/conversor-monedas)<br>
+3. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
 4. ⬆️ Pushed undefined commit(s) to [leniaso/conversor-monedas](https://github.com/leniaso/conversor-monedas)<br>
 5. ⬆️ Pushed undefined commit(s) to [leniaso/conversor-monedas](https://github.com/leniaso/conversor-monedas)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 16th, 2026, 3:16:45 AM
+Last Updated: Wednesday, September 16th, 2026, 10:49:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
