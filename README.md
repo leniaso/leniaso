@@ -24,7 +24,7 @@ proyecto de practica de platzi para el manejo de git-hub
 3. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 18th, 2026, 3:08:35 AM
+Last Updated: Friday, September 18th, 2026, 10:32:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
