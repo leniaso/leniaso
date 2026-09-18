@@ -22,10 +22,9 @@ proyecto de practica de platzi para el manejo de git-hub
 1. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
 2. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
 3. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
-4. ⬆️ Pushed undefined commit(s) to [leniaso/conversor-monedas](https://github.com/leniaso/conversor-monedas)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 17th, 2026, 8:55:53 PM
+Last Updated: Friday, September 18th, 2026, 3:08:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
