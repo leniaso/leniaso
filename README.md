@@ -19,13 +19,14 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
-2. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
-3. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
+1. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
+2. 🤝 Became collaborator on [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
+3. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
 4. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
+5. ⬆️ Pushed undefined commit(s) to [leniaso/SO-laboratorio1](https://github.com/leniaso/SO-laboratorio1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 26th, 2026, 3:28:12 AM
+Last Updated: Saturday, September 26th, 2026, 10:47:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
