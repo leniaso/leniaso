@@ -19,14 +19,14 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
+1. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
 2. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
 3. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
-4. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
-5. 💪 Opened PR [#6](undefined) in [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
+4. ⬆️ Pushed undefined commit(s) to [leniaso/SO_lab_02_String_Manipulation](https://github.com/leniaso/SO_lab_02_String_Manipulation)<br>
+5. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 14th, 2026, 4:29:57 PM
+Last Updated: Wednesday, October 14th, 2026, 9:15:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
