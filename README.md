@@ -23,10 +23,10 @@ proyecto de practica de platzi para el manejo de git-hub
 2. ⬆️ Pushed undefined commit(s) to [quesobando/conversor-monedas](https://github.com/quesobando/conversor-monedas)<br>
 3. ⬆️ Pushed undefined commit(s) to [quesobando/conversor-monedas](https://github.com/quesobando/conversor-monedas)<br>
 4. ⬆️ Pushed undefined commit(s) to [quesobando/conversor-monedas](https://github.com/quesobando/conversor-monedas)<br>
-5. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
+5. ⬆️ Pushed undefined commit(s) to [quesobando/conversor-monedas](https://github.com/quesobando/conversor-monedas)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 18th, 2026, 3:20:57 PM
+Last Updated: Sunday, October 18th, 2026, 8:04:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
