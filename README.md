@@ -19,14 +19,14 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [leniaso/taller_2_automatizaci-n](https://github.com/leniaso/taller_2_automatizaci-n)<br>
-2. 💪 Opened PR [#2](undefined) in [leniaso/taller_2_automatizaci-n](https://github.com/leniaso/taller_2_automatizaci-n)<br>
-3. ⬆️ Pushed undefined commit(s) to [leniaso/lab3__proceses](https://github.com/leniaso/lab3__proceses)<br>
-4. ⬆️ Pushed undefined commit(s) to [leniaso/lab3__proceses](https://github.com/leniaso/lab3__proceses)<br>
-5. ⬆️ Pushed undefined commit(s) to [leniaso/taller_2_automatizaci-n](https://github.com/leniaso/taller_2_automatizaci-n)<br>
+1. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
+2. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
+3. ⬆️ Pushed undefined commit(s) to [leniaso/taller_2_automatizaci-n](https://github.com/leniaso/taller_2_automatizaci-n)<br>
+4. 💪 Opened PR [#2](undefined) in [leniaso/taller_2_automatizaci-n](https://github.com/leniaso/taller_2_automatizaci-n)<br>
+5. ⬆️ Pushed undefined commit(s) to [leniaso/lab3__proceses](https://github.com/leniaso/lab3__proceses)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 21st, 2026, 2:10:54 PM
+Last Updated: Saturday, November 21st, 2026, 10:44:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
