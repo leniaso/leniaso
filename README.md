@@ -26,7 +26,7 @@ proyecto de practica de platzi para el manejo de git-hub
 5. ⬆️ Pushed undefined commit(s) to [leniaso/taller_2_automatizaci-n](https://github.com/leniaso/taller_2_automatizaci-n)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 20th, 2026, 7:35:47 PM
+Last Updated: Saturday, November 21st, 2026, 5:34:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
