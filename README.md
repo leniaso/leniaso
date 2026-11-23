@@ -26,7 +26,7 @@ proyecto de practica de platzi para el manejo de git-hub
 5. ⬆️ Pushed undefined commit(s) to [leniaso/lab3__proceses](https://github.com/leniaso/lab3__proceses)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 23rd, 2026, 5:42:43 AM
+Last Updated: Monday, November 23rd, 2026, 5:21:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
