@@ -19,14 +19,14 @@ proyecto de practica de platzi para el manejo de git-hub
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [leniaso/Proyecto-de-matrices-inversas](https://github.com/leniaso/Proyecto-de-matrices-inversas)<br>
-2. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
+1. 💪 Opened PR [#28](undefined) in [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
+2. ⬆️ Pushed undefined commit(s) to [leniaso/Proyecto-de-matrices-inversas](https://github.com/leniaso/Proyecto-de-matrices-inversas)<br>
 3. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
 4. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
 5. ⬆️ Pushed undefined commit(s) to [Fabrica-escuela-proyectos/Proyecto2026-2](https://github.com/Fabrica-escuela-proyectos/Proyecto2026-2)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 26th, 2026, 4:21:18 PM
+Last Updated: Friday, November 27th, 2026, 1:28:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## nota
